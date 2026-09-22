@@ -134,6 +134,10 @@ Open a **second terminal**:
 
 ## 📡 API Reference
 
+Once the backend server is running, interactive API documentation and testing playgrounds are available at:
+- **Swagger UI:** [http://localhost:8000/docs](http://localhost:8000/docs)
+- **ReDoc:** [http://localhost:8000/redoc](http://localhost:8000/redoc)
+
 ### **Endpoint: Verify Images**
 - **URL**: `/api/verify`
 - **Method**: `POST`
